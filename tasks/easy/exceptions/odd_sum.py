@@ -22,7 +22,6 @@ def odd_sum(int_list: list) -> int:
     return summa
 
 
-
 if __name__ == '__main__':
     some_list = [1, 2, 3, '123']
     try:
